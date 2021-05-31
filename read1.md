@@ -1,5 +1,5 @@
 # Hello!
-My name is  `Rawnaq Abu Rumman `, I'm 24,I studied mechatronics
+My name is  `Rawnaq Abu Rumman `, I'm 24,I studied mechatronics.
 engineering at the University of Jordan. Interested in programming
 I love discovery and learning. I am also a writer, writing articles
 in Arabic language. Its interesting experience learning here in ASAC.
